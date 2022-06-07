@@ -1,2 +1,2 @@
-# chainlink-keepers-sample
+# chainlink-samples
 Sample for RedDuck blockchain school
